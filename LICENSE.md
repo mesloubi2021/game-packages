@@ -7,4 +7,4 @@ under the same license as python).
 
 License for the build infrastructure
 ====================================
-For build infrastructure outside the `packages/` folder the license is [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0).
+For build infrastructure outside the `packages/` folder the license is [Apache License, Version 2.0](MIT).
